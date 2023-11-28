@@ -8,7 +8,7 @@ export default function BoxPrevisao() {
         document.querySelector('.title-city').innerHTML = `Tempo em ${dadosApi.name}` ;
         document.querySelector('.p-celsius').innerHTML =  Math.floor(dadosApi.main.temp) + "°C";
         document.querySelector('.p-weather').innerHTML =  dadosApi.weather[0].description;
-        document.querySelector('.humidity').innerHTML =  `Humidade: ${dadosApi.main.humidity} %`;
+        document.querySelector('.humidity').innerHTML =  `Umidade: ${dadosApi.main.humidity} %`;
         document.querySelector('.img-icon').src = `https://openweathermap.org/img/wn/${dadosApi.weather[0].icon}.png`
 
     }
