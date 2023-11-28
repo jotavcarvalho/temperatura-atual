@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/temperatura-atual2/static/css/main.d0d950ac.css",
-    "main.js": "/temperatura-atual2/static/js/main.fe461737.js",
-    "static/media/bg-section.jpg": "/temperatura-atual2/static/media/bg-section.3f3a4d0238af46a7440c.jpg",
-    "index.html": "/temperatura-atual2/index.html",
-    "main.d0d950ac.css.map": "/temperatura-atual2/static/css/main.d0d950ac.css.map",
-    "main.fe461737.js.map": "/temperatura-atual2/static/js/main.fe461737.js.map"
+    "main.css": "/temperatura-atual/static/css/main.7e3294a2.css",
+    "main.js": "/temperatura-atual/static/js/main.fe461737.js",
+    "static/media/bg-section.jpg": "/temperatura-atual/static/media/bg-section.3f3a4d0238af46a7440c.jpg",
+    "index.html": "/temperatura-atual/index.html",
+    "main.7e3294a2.css.map": "/temperatura-atual/static/css/main.7e3294a2.css.map",
+    "main.fe461737.js.map": "/temperatura-atual/static/js/main.fe461737.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0d950ac.css",
+    "static/css/main.7e3294a2.css",
     "static/js/main.fe461737.js"
   ]
 }
